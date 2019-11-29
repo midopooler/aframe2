@@ -1,0 +1,8 @@
+newmtl Material_aeec687b-01b6-42c0-a280-be4299122bd8
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd .\fd7311ab-86e6-4395-8f7a-53bc1e2ed48a.jpg
+newmtl Material 1_93df10ff-1aff-4d20-88a0-08aab7d872a0
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd .\6dd3fbf0-3d54-494d-a3d3-14a39c3735de.jpg
